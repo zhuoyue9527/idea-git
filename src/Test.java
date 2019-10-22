@@ -1,6 +1,6 @@
 public class Test {
 
-    private String editName ;
+    private String name ;
 
     private int age ;
 
